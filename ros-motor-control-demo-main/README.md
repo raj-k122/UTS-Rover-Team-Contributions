@@ -1,6 +1,6 @@
 # ROS Motor Control demo
 
-This branch of the code allows you to control a standard servo with the "j" and "k" keys of the keyboard. 
+This branch of the code allows you to control a standard servo with the "j" and "k" keys of the keyboard through ROS. 
 
 ## Arduino code
 Low level code to control the servo through the arduino. Creates a subscriber to the topic "servo". 
